@@ -32,7 +32,7 @@ Text-to-Speech API to read out the answer.
 
  Anyway here's the app. Its in german so you should ask in german. ;)
 
- <iframe width="480" height="640" src="https://murmuring-wave-7351.herokuapp.com/"
+ <iframe width="300" height="400" src="https://murmuring-wave-7351.herokuapp.com/"
  frameborder="0"></iframe>
 
 (It's an heruko hosted app so it can take some time to load the dyno)
