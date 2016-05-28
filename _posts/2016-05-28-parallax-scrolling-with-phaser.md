@@ -76,9 +76,9 @@ to find some free resources.
 
 In the update function we just need to tell the different parallax layers to move when
 the player moves or better when the left or right keys are pressed. One important
-thing to consider is now we don't want to move the parallax background when the
+thing to consider is now that we don't want to move the parallax background when the
 player is blocked by an obstacle and can't move even if the key is pressed. So we
-remember the old position of the player and only move the background when the player
+remember the old position of the player and only move the background when the players
 old position is different than the actual position.
 
 
