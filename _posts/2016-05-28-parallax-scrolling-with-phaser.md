@@ -8,7 +8,7 @@ Parallax Scrolling gives every side-scrolling 2d game a lot of polish and is qui
 to achieve. It gives an illusion of depth to the background and simulates the effect
 of distant objects in our vision when we move.
 
-Here's a simple implementation of it for the [Phaser](http://markdowntutorial.com/)
+Here's a simple implementation of it for the [Phaser](http://phaser.io/)
 game engine.
 
 First we create the game object and define some global variables for the player
