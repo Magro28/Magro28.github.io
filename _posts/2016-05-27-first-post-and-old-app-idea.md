@@ -1,11 +1,11 @@
 ---
 layout: post
 title: First post and the life advise oracle
-subtitle: A Siri-like app proof of concept 
+subtitle: A Siri-like app proof of concept
 ---
 
 So it seems like this will be my first post for this blog even if I don't really know what
-this blog should be about. But time will tell ^^
+this blog should be about. But time will tell.
 
 So here is my proof of concept of an old app idea:
 

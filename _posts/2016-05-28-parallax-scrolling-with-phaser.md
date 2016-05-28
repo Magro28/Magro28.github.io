@@ -4,7 +4,7 @@ title: parallax Scrolling with Phaser
 subtitle: A small example how to implent simple parallax scrolling
 ---
 
-parallax scrolling gives every sidescrolling 2d game a lot polish and is quite easy
+Parallax Scrolling gives every sidescrolling 2d game a lot polish and is quite easy
 to achieve. It gives an illusion of depth to the background and simulates the effect
 of distant objects in our vision when we move.
 
@@ -109,4 +109,5 @@ if (cursors.left.isDown) {
 //..
 ```
 You can put different values for the x vectors of the layers to simulate a different
-illusion of speed and distance.
+illusion of speed and distance. For an working example look at the small game at the
+aboutme page.
