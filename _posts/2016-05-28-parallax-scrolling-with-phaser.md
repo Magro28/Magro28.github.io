@@ -4,7 +4,7 @@ title: Parallax Scrolling with Phaser
 subtitle: A small example how to implement simple parallax scrolling
 ---
 
-Parallax Scrolling gives every side-scrolling 2d game a lot polish and is quite easy
+Parallax Scrolling gives every side-scrolling 2d game a lot of polish and is quite easy
 to achieve. It gives an illusion of depth to the background and simulates the effect
 of distant objects in our vision when we move.
 
@@ -15,7 +15,7 @@ First we create the game object and define some global variables for the player
 and the parallax layers.
 In the preload function you have to load your different background layers and in
 the create function you add them to the game. They have to be fixed to the camera so
-that they are always rendered relativ to the camera position. We also need to load
+that they are always rendered relative to the camera position. We also need to load
 a player sprite when we want that the parallax scrolling should relate to the player
 movement.
 
