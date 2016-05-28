@@ -40,6 +40,7 @@ The scraping requests take also it's time. So be patient.
 And you have to activate your microphone.)
 
 Tech used:
+
 - JavaScript
  - jQuery
  - Google-Speech-APIs
