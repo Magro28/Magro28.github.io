@@ -1,10 +1,10 @@
 ---
 layout: post
-title: parallax Scrolling with Phaser
-subtitle: A small example how to implent simple parallax scrolling
+title: Parallax Scrolling with Phaser
+subtitle: A small example how to implement simple parallax scrolling
 ---
 
-Parallax Scrolling gives every sidescrolling 2d game a lot polish and is quite easy
+Parallax Scrolling gives every side-scrolling 2d game a lot polish and is quite easy
 to achieve. It gives an illusion of depth to the background and simulates the effect
 of distant objects in our vision when we move.
 
