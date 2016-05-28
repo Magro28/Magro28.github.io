@@ -11,5 +11,7 @@ My name is Mario. I like to travel the world, try new technology and to code wei
 ### Contact
 If you want to get in contact send me a facebook or linkedin message.
 
+Or just play the metascript game.. 
+
 <iframe width="800" height="600" src="game.html"
 frameborder="0"></iframe>
