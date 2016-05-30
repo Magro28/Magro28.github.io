@@ -17,7 +17,7 @@ baseurl: ""
 title: Metascript
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A blog about Technology, Coding, Traveling, Games and Me
 
 # --- Navigation bar options --- #
 
@@ -38,7 +38,7 @@ avatar: "/img/me.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Mario Groß
-  email: "youremail@domain.com"
+  #email: "youremail@domain.com"
   facebook: mario.gross  # eg. daattali
   github: Magro28    # eg. daattali
   #twitter: yourname   # eg. daattali
