@@ -16,5 +16,5 @@ If you want to get in contact send me a Facebook or Linkedin message. You find l
 
 Or just play the metascript game (work in progress, haha)..
 
-<iframe width="800" height="600" src="game.html"
+<iframe width="805" height="605" src="game.html"
 frameborder="0"></iframe>
