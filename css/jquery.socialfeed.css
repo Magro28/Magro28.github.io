@@ -13,13 +13,14 @@
     width: 100%;
     width: auto\9;
     height: auto;
-    border: 0;  
+    border: 0;
     vertical-align: middle;
     -ms-interpolation-mode: bicubic;
 }
 .social-feed-element .attachment {
     vertical-align: middle;
     -ms-interpolation-mode: bicubic;
+    width: 30%;
 }
 
 /* Link styles */
@@ -132,5 +133,5 @@
 .social-feed-element .author-title{
     color: #444;
     line-height: 1.5em;
-    font-weight: 500;  
+    font-weight: 500;
 }
