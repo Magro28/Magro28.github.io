@@ -11,7 +11,7 @@
 }
 .social-feed-element img {
     width: 100%;
-    width: auto\9;
+    width: auto;
     height: auto;
     border: 0;
     vertical-align: middle;
@@ -20,7 +20,6 @@
 .social-feed-element .attachment {
     vertical-align: middle;
     -ms-interpolation-mode: bicubic;
-    width: 30%;
 }
 
 /* Link styles */
